@@ -1,3 +1,5 @@
+package Clase1;
+
 import javax.swing.*;
 
 public class Ronald {
